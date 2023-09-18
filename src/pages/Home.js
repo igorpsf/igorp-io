@@ -21,7 +21,7 @@ const Home = () => {
             <ul style={{ paddingLeft: '360px' }}>
                 <li>👨‍💻 All of my projects are available at <a href="https://igorp.io">igorp.io</a></li>
                 <li>📫 How to reach me <a href="mailto:igor.postnikov8@gmail.com">igor.postnikov8@gmail.com</a></li>
-                <li><img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/128/Linkedin-icon.png" width="22" height="22"></img> Connect with me: <a href="https://www.linkedin.com/in/igorpostnikov/">www.linkedin.com/in/igorpostnikov</a></li>
+                <li><img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/128/Linkedin-icon.png" width="22" height="22" alt="Linkedin"></img> Connect with me: <a href="https://www.linkedin.com/in/igorpostnikov/">www.linkedin.com/in/igorpostnikov</a></li>
             </ul>
 
         </div>
