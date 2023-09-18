@@ -7,7 +7,7 @@ const Home = () => {
             <h1 style={{ textAlign: 'center' }}>Hi 👋, I'm Igor Postnikov</h1>
             <h3 style={{ textAlign: 'center' }}>A passionate frontend developer from Mountain View, California</h3>
             <br/>
-            <div style={{ paddingRight: '360px' }}>
+            <div style={{ paddingRight: '300px' }}>
                 <img
                     style={{ float: 'right' }}
                     className="avatar rounded-2 avatar-user"
@@ -18,8 +18,8 @@ const Home = () => {
                 />
             </div>
 
-            <ul style={{ paddingLeft: '360px' }}>
-                <li>👨‍💻 All of my projects are available at <a href="https://igorp.io">igorp.io</a></li>
+            <ul style={{ paddingLeft: '300px' }}>
+                <li>👨‍💻 All of my projects are available at <a href="https://igorp.io/projects">igorp.io/projects</a></li>
                 <li>📫 How to reach me <a href="mailto:igor.postnikov8@gmail.com">igor.postnikov8@gmail.com</a></li>
                 <li><img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/128/Linkedin-icon.png" width="22" height="22" alt="Linkedin"></img> Connect with me: <a href="https://www.linkedin.com/in/igorpostnikov/">www.linkedin.com/in/igorpostnikov</a></li>
             </ul>
