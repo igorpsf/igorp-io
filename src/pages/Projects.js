@@ -1,5 +1,5 @@
 import React from 'react';
-import {Grid, Typography, Paper, Button, Chip } from "@mui/material";
+import {Grid, Typography, Paper, Button } from "@mui/material";
 // import ReactIcon from './icons/react.svg';
 // import JavaScriptIcon from './icons/react.svg';
 // import AWSIcon from './icons/react.svg';
