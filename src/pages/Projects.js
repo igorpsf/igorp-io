@@ -12,7 +12,7 @@ const Projects = () => {
             title: 'Kanban',
             description: 'Kanban  + Kanban Server',
             imageUrl: 'https://igorp-io-images.s3.us-west-1.amazonaws.com/Screenshot+2023-09-18+at+12.08.51%E2%80%AFPM.png',
-            projectLink: 'https://kanban.igorp.io',
+            projectLink: 'kanban.igorp.io',
             githubLink: 'https://github.com/igorpsf/kanban',
             technologies: [
                 { name: 'React' },
