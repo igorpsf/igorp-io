@@ -6,8 +6,8 @@ const Projects = () => {
 
     const projects = [
         {
-            title: 'Kanban',
-            description: 'Kanban  + Kanban Server',
+            title: 'Kanban board',
+            description: 'Kanban board  + Kanban Server',
             imageUrl: 'https://igorp-io-images.s3.us-west-1.amazonaws.com/Screenshot+2023-09-18+at+12.08.51%E2%80%AFPM.png',
             projectLink: 'http://kanban.igorp.io',
             githubLink: 'https://github.com/igorpsf/kanban',
@@ -15,15 +15,24 @@ const Projects = () => {
                 { name: 'React' },
                 { name: 'JavaScript' },
                 { name: 'Material UI' },
-                { name: '(AWS) - Route53, S3, EC2' },
+                { name: '(AWS) - Route53, S3' },
+                { name: 'GitHub Actions' },
             ]
         },
-        // {
-        //     title: 'Project 2',
-        //     description: 'Description of Project 2',
-        //     imageUrl: 'https://via.placeholder.com/200',
-        //
-        // },
+        {
+            title: 'ChatGPT',
+            description: 'ChatGPT-3 with text-davinci-003 model ',
+            imageUrl: 'https://igorp-io-images.s3.us-west-1.amazonaws.com/Screenshot+2023-10-12+at+10.52.10%E2%80%AFAM.png',
+            projectLink: 'http://gpt.igorp.io',
+            githubLink: 'https://github.com/igorpsf/chat-gpt',
+            technologies: [
+                { name: 'React' },
+                { name: 'JavaScript' },
+                { name: 'OpenAI API' },
+                { name: '(AWS) - Route53, S3' },
+                { name: 'GitHub Actions' },
+            ]
+        },
         // {
         //     title: 'Project 3',
         //     description: 'Description of Project 3',
@@ -64,7 +73,7 @@ const Projects = () => {
                                 >
                                     GitHub
                                 </Button>
-                                <div style={{ marginTop: '10px', height: '200px', overflowY: 'scroll' }}>
+                                <div style={{ marginTop: '10px', height: '200px'}}>
                                     <Typography variant="body2" color="textSecondary">
                                         Technologies:
                                     </Typography>
