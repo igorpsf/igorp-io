@@ -22,7 +22,6 @@ const Header = () => {
                         <Nav className="me-auto">
                             <Nav.Link to="/" as={NavLink}>Home</Nav.Link>
                             <Nav.Link to="/projects" as={NavLink}>Projects</Nav.Link>
-                            <Nav.Link to="/resume" as={NavLink}>Resume</Nav.Link>
                         </Nav>
 
                         <Form inline="true" className="d-flex justify-content-center">
@@ -52,7 +51,6 @@ const Header = () => {
             <Routes>
                 <Route path="/" element={<Home/>}/>
                 <Route path="/projects" element={<Projects/>}/>
-                <Route path="/resume" element={<Resume/>}/>
             </Routes>
         </>
     );

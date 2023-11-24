@@ -23,6 +23,7 @@ const Home = () => {
                 <li>👨‍💻 All of my projects are available at <a href="https://igorp.io/projects">igorp.io/projects</a></li>
                 <li>📫 How to reach me <a href="mailto:igor.postnikov8@gmail.com">igor.postnikov8@gmail.com</a></li>
                 <li><img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/128/Linkedin-icon.png" width="22" height="22" alt="Linkedin"></img> Connect with me: <a href="https://www.linkedin.com/in/igorpostnikov/">www.linkedin.com/in/igorpostnikov</a></li>
+                <li><img src="https://img.icons8.com/ios/50/resume.png" width="22" height="22" alt="Resume"></img> Resume: <a href="https://igorp-io-images.s3.us-west-1.amazonaws.com/Resume.pdf"> Resume.pdf </a></li>
             </ul>
 
         </div>
