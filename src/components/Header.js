@@ -2,7 +2,6 @@ import React from 'react';
 import {Route, Routes} from "react-router";
 import Home from "../pages/Home";
 import Projects from "../pages/Projects";
-import Resume from "../pages/Resume";
 import {Button, Container, Form, FormControl, Nav, Navbar} from "react-bootstrap";
 import NavbarToggle from "react-bootstrap/NavbarToggle";
 import NavbarCollapse from "react-bootstrap/NavbarCollapse";
